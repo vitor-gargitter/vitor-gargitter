@@ -20,10 +20,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 ### Projetos
 
 Abaixo estão alguns dos meus projetos mais importantes, tanto da faculdade quanto pessoais.
-*[Adicionar um título para o meu projeto]*
+*Painel para automação de processos*
 
-* **[Nome do Projeto]** - Uma breve descrição do que o projeto faz.
-    * `[Link para o projeto]`
+* **painel-automacao-processos** - interface de usuário (UI) desenvolvida para um script de automação de processo.
+    * https://github.com/vitor-gargitter/painel-automacao-processos/tree/main
 
 ---
 
