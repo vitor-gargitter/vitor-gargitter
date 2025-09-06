@@ -12,8 +12,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 * **Automação de Processos:** [Python (com bibliotecas como py3270 e Selenium para automação de interface)]
 * **Linguagens:** [Python, C#]
-* **Desenvolvimento Web:** [HTML, CSS, JavaScript, frameworks]
-* **Banco de Dados:** [SQL]
+* **Desenvolvimento Web:** [HTML, CSS, JavaScript, Entity Framework]
+* **Banco de Dados:** [SQL Server]
 
 ---
 
