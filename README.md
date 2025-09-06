@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 ### Projetos
 
 Abaixo estão alguns dos meus projetos mais importantes, tanto da faculdade quanto pessoais.
-*[Adicione um título para o seu projeto e o link para o repositório, por exemplo:]*
+*[Adicionar um título para o meu projeto]*
 
 * **[Nome do Projeto]** - Uma breve descrição do que o projeto faz.
     * `[Link para o projeto]`
